@@ -33,7 +33,7 @@ Professional video trimming & smart rendering tool powered by FFmpeg.
 https://t.me/FrameForgeSupport  
 
 **Direct Developer Contact**  
-https://t.me/romashishka  
+https://t.me/Romoshihka  
 
 **Email**  
 Roman_Web@outlook.com
