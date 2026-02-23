@@ -46,12 +46,17 @@ Latest version: **v1.0.0**
 
 ---
 
-## 💬 Support
+## 💬 Support & Community
 
- **Official Telegram**  
-https://t.me/frameforge_support
+If Frame Forge Studio helps you create, feel free to support the project:
 
-**Email**  
+☕ **Buy Me a Coffee**  
+https://buymeacoffee.com/FrameForgeStudio  
+
+💬 **Official Telegram Community**  
+https://t.me/frameforge_support  
+
+📧 **Direct Email**  
 Roman_Web@outlook.com  
 
 ---
