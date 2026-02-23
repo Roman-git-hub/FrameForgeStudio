@@ -21,7 +21,7 @@ Video trimming & smart rendering tool powered by FFmpeg.
 - 🎯 PRECISE mode (accurate encoding)  
 - 🔗 Fast FFmpeg concatenation  
 - 📊 Media file information panel  
-- 🌍 Multi-language support (EN / UA)
+- 🌍 Multi-language support (UA / EN)
 
 ---
 
@@ -48,8 +48,8 @@ Latest version: **v1.0.0**
 
 ## 💬 Support
 
-**Direct Developer Contact**  
-https://t.me/romashishka  
+ **Official Telegram**  
+https://t.me/frameforge_support
 
 **Email**  
 Roman_Web@outlook.com  
