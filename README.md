@@ -68,7 +68,7 @@ Latest version: **v1.0.0**
 If Frame Forge Studio helps you create, you can support its development:
 
 ☕ **Buy Me a Coffee**  
-https://buymeacoffee.com/FrameForgeStudio  
+https://buymeacoffee.com/frameforgestudio
 
 💬 **Official Telegram Community**  
 https://t.me/frameforge_support  
