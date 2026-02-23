@@ -6,7 +6,7 @@
 
 # 🎬 Frame Forge Studio
 
-Professional video trimming & smart rendering tool powered by FFmpeg.
+Video trimming & smart rendering tool powered by FFmpeg.
 
 > Fast. Precise. Clean.
 
@@ -47,9 +47,6 @@ Latest version: **v1.0.0**
 ---
 
 ## 💬 Support
-
-**Official Telegram**  
-https://t.me/frameforge_support  
 
 **Direct Developer Contact**  
 https://t.me/romashishka  
