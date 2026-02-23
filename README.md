@@ -3,25 +3,39 @@
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange)
 
-
 # 🎬 Frame Forge Studio
 
-Video trimming & smart rendering tool powered by FFmpeg.
+Smart media processing studio powered by FFmpeg.  
+Download. Trim. Analyze. Render.
 
 > Fast. Precise. Clean.
 
 ---
 
-## ✂ Features
+## 🚀 Core Capabilities
 
-- 🎥 Built-in video player  
-- 🌊 Waveform visualization  
-- ✂ Multi-segment trim  
-- ⚡ SMART mode (no re-encoding)  
-- 🎯 PRECISE mode (accurate encoding)  
-- 🔗 Fast FFmpeg concatenation  
-- 📊 Media file information panel  
-- 🌍 Multi-language support (UA / EN)
+### 📥 Download & Import
+- Load media from direct links
+- High-quality stream selection (up to 2160p)
+- Video or Audio-only mode
+- MKV / WEBM workflow options
+
+### 🎬 Playback & Analysis
+- Built-in video player
+- Waveform visualization
+- Detailed media information panel
+- Stream-level inspection
+
+### ✂ Smart Editing
+- Multi-segment trim
+- ⚡ SMART mode (no re-encoding, original streams preserved)
+- 🎯 PRECISE mode (accurate encoding via libx264)
+- Fast FFmpeg concatenation
+
+### 🌍 Environment
+- Multi-language UI (UA / EN)
+- Clean, focused desktop workflow
+- Stable local processing (no cloud dependency)
 
 ---
 
@@ -31,8 +45,9 @@ Frame Forge Studio is designed for creators who need:
 
 - Fast cutting without quality loss  
 - Precise frame-level trimming  
-- Clean workflow  
-- Stable desktop performance  
+- Original stream preservation  
+- Clean and distraction-free workflow  
+- Reliable desktop performance  
 
 Built with **.NET 8 (WPF)** and powered by **FFmpeg**.
 
@@ -46,9 +61,11 @@ Latest version: **v1.0.0**
 
 ---
 
+⭐ If you like the project, consider giving it a star on GitHub.
+
 ## 💬 Support & Community
 
-If Frame Forge Studio helps you create, feel free to support the project:
+If Frame Forge Studio helps you create, you can support its development:
 
 ☕ **Buy Me a Coffee**  
 https://buymeacoffee.com/FrameForgeStudio  
