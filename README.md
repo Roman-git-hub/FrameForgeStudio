@@ -29,9 +29,14 @@ Professional video trimming & smart rendering tool powered by FFmpeg.
 
 ## 💬 Support
 
-Telegram: https://t.me/FrameForgeSupport
-https://t.me/Romoshihka
-Email: Roman_Web@outlook.com
+**Official Support Channel**  
+https://t.me/FrameForgeSupport  
+
+**Direct Developer Contact**  
+https://t.me/romashishka  
+
+**Email**  
+Roman_Web@outlook.com
 
 ---
 
