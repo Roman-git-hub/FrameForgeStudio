@@ -1,1 +1,5 @@
-
+{
+  "version": "1.0.1",
+  "zipUrl": "private const string UpdateUrl =
+    "https://raw.githubusercontent.com/Roman-git-hub/FrameForgeStudio/main/update.json";
+}
