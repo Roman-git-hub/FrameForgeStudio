@@ -1,4 +1,5 @@
 {
-  "version": "1.0.0.2",
-  "zipUrl": "https://raw.githubusercontent.com/Roman-git-hub/FrameForgeStudio/main/version.json"
+  "version": "1.0.0.3",
+  "zipUrl": "https://raw.githubusercontent.com/Roman-git-hub/FrameForgeStudio/main/version.json",
+  "changelog": "• Виправлені баги\n• Покращена продуктивність"
 }
