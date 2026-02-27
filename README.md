@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange)
 
 ## 🚀 Download
-👉 ** [⬇ Download Frame Forge Studio]https://github.com/Roman-git-hub/FrameForgeStudio/releases/download/v1.0.0/FrameForgeStudio-v1.0.0-win-x64-selfcontained.zip.zip
+👉 ** [![Download](https://img.shields.io/badge/Download-Windows%20x64-brightgreen?style=for-the-badge&logo=windows)](https://github.com/Roman-git-hub/FrameForgeStudio/releases/download/v1.0.0/FrameForgeStudio-v1.0.0-win-x64-selfcontained.zip)
 
 # 🎬 Frame Forge Studio
 
