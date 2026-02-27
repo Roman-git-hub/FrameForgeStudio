@@ -60,7 +60,7 @@ Built with **.NET 8 (WPF)** and powered by **FFmpeg**.
 
 👉 Go to **Releases** and download the latest version.
 
-Latest version: **v1.0.0**
+Latest version: **v1.0.0.2**
 
 ---
 
