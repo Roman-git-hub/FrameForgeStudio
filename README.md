@@ -1,7 +1,7 @@
 ![.NET](https://img.shields.io/badge/.NET-8.0-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0.0-orange)
+![Version](https://img.shields.io/badge/Version-1.2.0-orange)
 
 ## 🚀 Download
 👉 ** 📦 [![Download](https://img.shields.io/badge/Download-Windows%20x64-brightgreen?style=for-the-badge&logo=windows)](https://github.com/Roman-git-hub/FrameForgeStudio/releases/download/v1.2.0.0/FrameForgeStudio-v1.2.0.0-win-x64-selfcontained.zip)
